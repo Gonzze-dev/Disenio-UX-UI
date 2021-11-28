@@ -1,0 +1,19 @@
+.button-green
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 63px;
+    width: 375px;
+    border: none;
+    font-size: 1.125rem;
+    color: var(--Text-input-field);
+    background: var(--Hospital-green);
+    border-radius: 8px 8px 8px 8px;
+    text-decoration: none;
+}
+
+.button-green:hover
+{
+    background-color:var(--Very-light-pink);
+}
