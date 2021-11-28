@@ -1,0 +1,15 @@
+@media (max-width: 375px)
+{
+
+    .button-green
+    {
+        width: 90%;
+    }
+
+    .button-border-green
+    {
+        margin-top: 120px;
+        width: 90%;
+    }
+
+}
